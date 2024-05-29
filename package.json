@@ -1,0 +1,22 @@
+{
+  "name": "tea-my1-dependenc",
+  "version": "1.0.0",
+  "description": "Basic teamy1 app1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JekaIvaschenko/tea-my1-dependenc.git"
+  },
+  "dependencies": {
+    "tea-my1": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JekaIvaschenko/tea-my1-dependenc/issues"
+  },
+  "homepage": "https://github.com/JekaIvaschenko/tea-my1-dependenc#readme"
+}
